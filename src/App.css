@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  padding: 50px 0;
+  height: 100vh;
+  background-color: #4b5d67;
+}
+
+.App-header {
+  padding-top: 30px;
+}
+.circle {
+  width: 20px;
+  height: 20px;
+  font-size: 40px;
+  cursor: pointer;
+  border-radius: 30px;
+  display: flex;
+  border: 5px solid white;
+}
+
+main ul {
+  list-style: none;
+  padding: 0 !important;
+}
+
+main ul li {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  background-color: #fff;
+  width: 50%;
+  margin: 0 auto;
+  height: 70vh;
+  border-radius: 50px;
+}
